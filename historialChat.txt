@@ -1,0 +1,20 @@
+[
+  {
+    "email": "lucaslh86@gmail.com",
+    "fechaHora": "17/09/2021 14:36:04",
+    "mensaje": "hola que tal",
+    "id": 1
+  },
+  {
+    "email": "juan@hotmail.com",
+    "fechaHora": "17/09/2021 14:36:21",
+    "mensaje": "bien y vos?",
+    "id": 2
+  },
+  {
+    "email": "lucaslh86@gmail.com",
+    "fechaHora": "17/09/2021 14:37:00",
+    "mensaje": "Todo bien por suerte",
+    "id": 3
+  }
+]

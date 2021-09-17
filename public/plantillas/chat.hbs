@@ -1,0 +1,22 @@
+<style>
+    .table td,
+    .table th {
+        vertical-align: middle;
+    }
+</style>
+
+{{#if mensajes.length}}
+
+
+<div class="table-responsive">
+    
+        
+        {{#each mensajes}}
+        
+            <font color="blue"><b>{{this.email}} </b></font> [<font color="maroon">{{this.fechaHora}}</font>] <font color="green"> <i>: {{this.mensaje}} </i></font>
+            <br> 
+        
+        {{/each}} 
+    
+</div>
+{{/if}}
